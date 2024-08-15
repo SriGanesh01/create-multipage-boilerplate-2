@@ -1,6 +1,6 @@
 {
   "name": "create-multipage-boilerplate-2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A multipage boilerplate for Vite.",
   "main": "index.cjs",
   "bin": {
