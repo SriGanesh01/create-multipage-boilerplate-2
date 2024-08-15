@@ -1,10 +1,10 @@
 {
   "name": "create-multipage-boilerplate-2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A multipage boilerplate for Vite.",
   "main": "index.js",
   "bin": {
-    "create-multipage-boilerplate-2": "./bin/index.js"
+    "create-multipage-boilerplate-2": "./bin/index.cjs"
   },
   "type": "module",
   "scripts": {
